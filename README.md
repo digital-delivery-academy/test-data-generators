@@ -1,5 +1,8 @@
 # test-data-generators
 
+[![Build Status](https://travis-ci.com/digital-delivery-academy/test-data-generators.svg?branch=master)](https://travis-ci.com/digital-delivery-academy/test-data-generators)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a01fe2b4dfcf4b9b8b25205166d06878)](https://www.codacy.com/gh/digital-delivery-academy/test-data-generators?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=digital-delivery-academy/test-data-generators&amp;utm_campaign=Badge_Grade)
+
 ## Usage
 
 Put this in your POM.xml.
